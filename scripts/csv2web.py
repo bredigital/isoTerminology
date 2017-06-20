@@ -7,7 +7,7 @@ taxonomy_array = []
 
 cmdargs = str(sys.argv)
 
-# load in Uniclass2 array from command line
+# load in BIM Terms csv from command line
 
 with open(str(sys.argv[1]), 'rb') as csvfile:
   spam = csv.reader(csvfile, delimiter=',', quotechar='\"')
@@ -23,9 +23,9 @@ count = 0
 for row in taxonomy_array:
 
 	if (count < len(taxonomy_array)-1):
-		print "[\""+taxonomy_array[count][0]+"\",\""+taxonomy_array[count][1]+"\",\""+taxonomy_array[count][2]+"\",\""+taxonomy_array[count][3]+"\"],"
+		print "[\""+taxonomy_array[count][0]+"\",\""+taxonomy_array[count][1]+"\",\""+taxonomy_array[count][2]+"\",\""+taxonomy_array[count][3]+"\",\""+taxonomy_array[count][4]+"\"],"
 	else:
-		print "[\""+taxonomy_array[count][0]+"\",\""+taxonomy_array[count][1]+"\",\""+taxonomy_array[count][2]+"\",\""+taxonomy_array[count][3]+"\"]"
+		print "[\""+taxonomy_array[count][0]+"\",\""+taxonomy_array[count][1]+"\",\""+taxonomy_array[count][2]+"\",\""+taxonomy_array[count][3]+"\",\""+taxonomy_array[count][4]+"\"]"
 
 	count +=1
 

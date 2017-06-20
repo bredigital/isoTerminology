@@ -1,7 +1,7 @@
 import csv
 import sys
 
-# set up the BIMTaxonomy array
+# set up the isoTaxonomy array
 
 taxonomy_array = []
 
