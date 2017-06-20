@@ -184,7 +184,7 @@ Information,,"representation of data in a formal manner suitable for communicati
 Information Constraint,,"A statement that formally defines or constrains the scope of a piece of information due to some aspect of the business, a rule under which an organization operates or a policy or decision that influences a process",,ISO/DIS 29481-1
 Information Delivery Manual,IDM,"Strategy for identifying the processes, exchange requirements, business rules and functional parts for information exchanges in facility projects",,"ISO 12911, ISO/DIS 29481-2"
 Information Device,,Convention indicating an abstract item,,BS 8541-2
-Information Exchange,,Structured collection of information at one of a number of pre-defined stages of a project with defined format and fidelity,,"PAS1192-2 Front, PAS1192-2 Back"
+Information Exchange,,Structured collection of information at one of a number of pre-defined stages of a project with defined format and fidelity,Data drop,"PAS1192-2 Front, PAS1192-2 Back"
 Information Management,,"Policies, processes, and tasks applied to inputting, processing and generation activities to ensure accuracy, authenticity, confidentiality and integrity of information",,"PAS1192-2 Front, PAS1192-2 Back, PAS1192-5"
 Information Management Process,IMP,Process to manage information related to the operational phase of an asset,,PAS1192-3
 Information Manager,,"Organizational representative appointed by the employer or asset owner, who is responsible for establishing governance and assuring data and information flow to and from the common data environment (CDE) during the design, construction, operation and maintenance, and disposal or decommissioning of a built asset",,PAS1192-5
