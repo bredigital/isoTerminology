@@ -3,9 +3,11 @@ A Bim ISO Terminology file created and by the Building Information Modelling Tea
 
 Main contents:
 
-isoTerminology.csv - the main content file
-isoTerminology.json - the json file created from the csv file
-scripts/csv2web.py - python script for converting csv file to json format
+isoTerminology.csv - the main content file.
+
+isoTerminology.json - the json file created from the csv file.
+
+scripts/csv2web.py - python script for converting csv file to json format.
 
 To create json file, run csv2web.py script in /scripts directory.
 
