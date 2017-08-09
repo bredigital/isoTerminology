@@ -1,7 +1,7 @@
-Acceptance Critieria,,evidence required for considering that requirements have been fulfilled,,"ISO 22263:2008, 2.1"
+Acceptance Criteria,,evidence required for considering that requirements have been fulfilled,,"ISO 22263:2008, 2.1"
 Actor,,"person, organization or organizational unit involved in a construction process ",agent,"ISO 29841-1:2016, 3.1 [Adapted]"
 Asset,,"item, thing or entity that has potential or actual value to an actor",,"ISO 55000:2014, 3.2.1 [Adapted]"
-Asset Information Model,AIM,information model relating to the operation of an asset ,,*
+Asset Information Model,AIM,information model in relation to the operation of an asset ,,*
 Asset Information Requirements,AIR,Information requirements in relation to the operation of an asset,,*
 BIM Execution Plan,BEP,plan that explains how the information management aspects of the appointment will be carried out by the delivery team,,*
 Building Information Modelling,BIM,"use of a shared digital representation of a built object to facilitate design, construction and operation processes to form a reliable basis for decisions ",BIMM,ISO 29481-1:2016 (3.2) [Adapted]
@@ -21,22 +21,22 @@ Information Exchange,IE,act of satisfying an information requirement or part the
 Information Model,IM,set of structured and unstructured information containers,BIM model,*
 Information Requirement,,"specifies what, when, and how information is needed",,*
 Key Decision Point,,a point in time when a decision crucial to the direction or viability of the asset is made,,*
-Level of Information Need,LOIN,framework which defines the extenet and granularity of information,LOX,*
+Level of Information Need,LOIN,framework which defines the extent and granularity of information,LOX,*
 Life Cycle,,life of the asset from conception through its delivery phase and operational phase to disposal,,"ISO 12911, 3.13 [Adapted]"
 Master Information Delivery Plan,MIDP,plan incorporating all relevant task information delivery plans,,*
 Model,,representation of a system that allows for investigation of the properties of the system,,"ISO 29481-1:2016, 3.15"
 Natural Environment,,non-artificial environment of any physical construction object,,"ISO 12006-2:2015, 3.1.6"
 Object,,any part of the perceivable or conceivable world,,"ISO 12006-2:2015, 3.1.1"
-Operational Phase,,"part of the life cycle in which the operation, maintanacne, replacement and disposal of an asset are undertaken",,*
-Organizational Information Requirements,OIR,informaiton requirements in relationtion to organizational objectives,,*
+Operational Phase,,"part of the life cycle in which the operation, maintenance, replacement and disposal of an asset are undertaken",,*
+Organizational Information Requirements,OIR,information requirements in relation to organizational objectives,,*
 Project,,agreed means by which a construction works or part of it is executed,,"ISO 6707-2, 3.8 [Adapted]"
 Project Information Model,PIM,information model relating to the delivery of an asset ,,*
-Project Information Requirements,PIR,information requirements in relationtion to the delivery of an asset,,*
+Project Information Requirements,PIR,information requirements in relation to the delivery of an asset,,*
 Project Team,,appointing party and all delivery teams,,*
 Responsibility Matrix,RM,chart that describes the participation by various roles in completing tasks or deliverables ,MPDT,"ISO 37500:2014, 3.16"
 Space,,limited three-dimensional extent defined physically or notionally,,"ISO 12006-2:2015, 3.1.8"
 Sponsor,,actor that provides the financial resources for the project ,,"ISO 6707-1:2014, 8.3 [Adapted]"
-Status Code,,meta-data describing the suitaiblity of the content within an information container,,*
+Status Code,,meta-data describing the suitability of the content within an information container,,*
 Task Information Delivery Plan,TIDP,"schedule of information containers and delivery dates, for a specific task team",,*
 Task Team,,actors who as part of their appointment produce information containers ,,*
 Trigger Event,,"planned or unplanned event that changes an asset or its status during its life cycle, which results in an information exchange",,*
