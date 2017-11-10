@@ -10,12 +10,12 @@ cmdargs = str(sys.argv)
 # load in BIM Terms csv from command line
 
 with open(str(sys.argv[1]), 'rb') as csvfile:
-  spam = csv.reader(csvfile, delimiter=',', quotechar='\"')
-  count = 0
-  for row in spam:
-	taxonomy_array.append([])
-	taxonomy_array[count] = row
-	count += 1
+	spam = csv.reader(csvfile, delimiter=',', quotechar='\"')
+	count = 0
+	for row in spam:
+		taxonomy_array.append([])
+		taxonomy_array[count] = row
+		count += 1
 
 # Print opening json bracket
 print "["
