@@ -23,9 +23,9 @@ count = 0
 for row in taxonomy_array:
 
 	if (count < len(taxonomy_array)-1):
-		print "[\""+taxonomy_array[count][0]+"\",\""+taxonomy_array[count][1]+"\",\""+taxonomy_array[count][2]+"\",\""+taxonomy_array[count][3]+"\",\""+taxonomy_array[count][4]+"\"],"
+		print "[\""+taxonomy_array[count][0]+"\",\""+taxonomy_array[count][1]+"\",\""+taxonomy_array[count][2]+"\",\""+taxonomy_array[count][3]+"\",\""+taxonomy_array[count][4]+"\",\""+taxonomy_array[count][5]+"\",\""+taxonomy_array[count][6]+"\"],"
 	else:
-		print "[\""+taxonomy_array[count][0]+"\",\""+taxonomy_array[count][1]+"\",\""+taxonomy_array[count][2]+"\",\""+taxonomy_array[count][3]+"\",\""+taxonomy_array[count][4]+"\"]"
+		print "[\""+taxonomy_array[count][0]+"\",\""+taxonomy_array[count][1]+"\",\""+taxonomy_array[count][2]+"\",\""+taxonomy_array[count][3]+"\",\""+taxonomy_array[count][4]+"\",\""+taxonomy_array[count][5]+"\",\""+taxonomy_array[count][6]+"\"]"
 
 	count +=1
 
